@@ -6,30 +6,24 @@ using System.Threading.Tasks;
 
 namespace interfacesLab
 {
-    /// <summary>
-    /// 
-    /// </summary>
-    internal class Dog : Animal
-    {/// <summary>
-    /// Overriding Eat method
-    /// </summary>
+    internal class Cat : Animal
+    {
         public override void Eat()
         {
-            Console.WriteLine("Dogs eat meat.");
+            Console.WriteLine("Cats eat mice.");
         }
 
         /// <summary>
-        /// Dog object constructor
+        /// Cat object constructor
         /// </summary>
         /// <param name="name"></param>
         /// <param name="colour"></param>
         /// <param name="age"></param>
-        public Dog(string name, string colour, int age)
-        { 
+        public Cat(string name, string colour, int age)
+        {
             this.name = name;
             this.colour = colour;
             this.age = age;
         }
-
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab--Interfaces-and-Abstract-Classes\interfacesLab\bin\Debug\interfacesLab.exe.config
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab--Interfaces-and-Abstract-Classes\interfacesLab\bin\Debug\interfacesLab.exe
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab--Interfaces-and-Abstract-Classes\interfacesLab\bin\Debug\interfacesLab.pdb
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab--Interfaces-and-Abstract-Classes\interfacesLab\obj\Debug\interfacesLab.csproj.AssemblyReference.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab--Interfaces-and-Abstract-Classes\interfacesLab\obj\Debug\interfacesLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab--Interfaces-and-Abstract-Classes\interfacesLab\obj\Debug\interfacesLab.csproj.CoreCompileInputs.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab--Interfaces-and-Abstract-Classes\interfacesLab\obj\Debug\interfacesLab.exe
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab--Interfaces-and-Abstract-Classes\interfacesLab\obj\Debug\interfacesLab.pdb
