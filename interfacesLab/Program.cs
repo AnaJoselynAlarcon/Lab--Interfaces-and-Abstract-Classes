@@ -12,13 +12,13 @@ namespace interfacesLab
         static void Main(string[] args)
         {
             //-----Dog object-------
-            Console.WriteLine("Dog Name: ");
+            Console.Write("Dog Name: ");
             string dogName = Console.ReadLine();
 
-            Console.WriteLine("Dog Colour: ");
+            Console.Write("Dog Colour: ");
             string dogColour = Console.ReadLine();
 
-            Console.WriteLine("Dog Age: ");
+            Console.Write("Dog Age: ");
             string inputDogAge = Console.ReadLine();
             int dogAge = int.Parse(inputDogAge);
 
@@ -31,13 +31,13 @@ namespace interfacesLab
 
 
             //-----Cat object-----
-            Console.WriteLine("Cat Name: ");
+            Console.Write("Cat Name: ");
             string catName = Console.ReadLine();
 
-            Console.WriteLine("Cat Colour: ");
+            Console.Write("Cat Colour: ");
             string catColour = Console.ReadLine();
 
-            Console.WriteLine("Cat Age: ");
+            Console.Write("Cat Age: ");
             string inputCatAge = Console.ReadLine();
             int catAge = int.Parse(inputCatAge);
 
